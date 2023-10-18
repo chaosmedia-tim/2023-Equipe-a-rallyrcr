@@ -5,7 +5,7 @@ layout: home
 
 ## Description du projet
 
-Rally RCR est une course entre deux joueurs. Le but est d'être le premier à arriver à l'hôpital en fesant le RCR le mieux possible.
+Rally RCR est une course entre deux joueurs. Le but est d'être le premier à arriver à l'hôpital en faisant le RCR le mieux possible.
 
 ## Journal de création
 
