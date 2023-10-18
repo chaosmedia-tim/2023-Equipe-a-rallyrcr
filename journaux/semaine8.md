@@ -5,7 +5,6 @@ layout: post
 
 ## Consignes
 
-Votre journal doit inclure un résumé de la semaine, vos bon coups et réussites, les difficultés et défis, ainsi que les tâches effectuées.
-
-Vous devez inclure des images, liens et autre contenu nécéssaire pour supporter vos explications et montrer l'avancement du projet.
+Dominik : Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
+![alt text](demo_semaine8.jpg)
 
