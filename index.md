@@ -1,11 +1,11 @@
 ---
-title: Nom du projet (À CHANGER)
+title: Rally RCR
 layout: home
 ---
 
 ## Description du projet
 
-Voici une courte description du projet. Cette description devrait être une ou deux phrases.
+Rally RCR est une course entre deux joueurs. Le but est d'être le premier à arriver à l'hôpital en fesant le RCR le mieux possible.
 
 ## Journal de création
 
