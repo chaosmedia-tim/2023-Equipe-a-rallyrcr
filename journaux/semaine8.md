@@ -27,4 +27,7 @@ En résumé, nous sommes parvenus à progresser rapidement et chaque membre de l
 
 Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième sprint et donc commencer la création des réseaux sociaux et continuer la progression de notre installation.
 
+![ImageCourse](../medias/UI RACE_display.jpg)
+
+
 
