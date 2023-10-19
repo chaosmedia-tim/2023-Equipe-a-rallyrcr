@@ -11,11 +11,11 @@ Dominik : Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Ardu
 # C` EST PARTIT !!
 Mario: Le jeu Rally Rcr vient de terminer **son premier sprint.** Les éléments suivants ont été ajoutés au devis :
 
--Les maquettes,
--les démos techniques,
--les démos sonores,
--les cartes graphiques,
--le logo a été intégré au devis du projet.
+- Les maquettes,
+- Les démos techniques,
+- Les démos sonores,
+- Les chartes graphiques,
+- Le logo
 
 Suite à des critiques qui nous ont été données, nous avons eu des problèmes à choisir entre une installation sérieuse ou ludique. Finalement, nous sommes parvenues à nous accorder sur une direction plus ludique.
 
