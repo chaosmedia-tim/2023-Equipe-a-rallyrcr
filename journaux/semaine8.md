@@ -3,10 +3,13 @@ title: Semaine 8
 layout: post
 ---
 
-## Consignes
+
+
+Dominik : Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
+![alt text](demo_semaine8.jpg)
 
 # h1 C`est parti !!
-Le jeu Rally Rcr vient de terminer son premier sprint. Les éléments suivants ont été ajoutés au devis :
+Mario: Le jeu Rally Rcr vient de terminer son premier sprint. Les éléments suivants ont été ajoutés au devis :
 
 -Les maquettes,
 -les démos techniques,
@@ -23,3 +26,5 @@ Nous avons également choisi d'intégrer notre interface de jeu au sol grâce à
 En résumé, nous sommes parvenus à progresser rapidement et chaque membre de l'équipe a bien contribué.
 
 Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième sprint et donc commencer la création des réseaux sociaux et continuer la progression de notre installation.
+
+
