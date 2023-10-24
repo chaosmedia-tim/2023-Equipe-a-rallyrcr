@@ -32,4 +32,19 @@ Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième
 ![ImageCourse](../medias/UI RACE_display.jpg)
 
 
+##Camille
 
+Cette semaine, Lorie et moi avons créé les comptes des réseaux sociaux. J’ai créé un calendrier pour nous aider à planifier nos publications car elle et moi s'occuperont des réseaux.
+
+J’ai créé le design de notre première publication introduisant notre logo et invitant les gens à venir à notre installation lors du ChaosMédia.
+
+![ImagePublication1](../medias/post1.png)
+
+J’ai aussi développé le design d’un carrousel qui sera notre deuxième publication. Elle expliquera en détail au public notre direction artistique pour notre installation.
+
+![ImageCarousel](../medias/carousel1.png)
+![ImageCarousel](../medias/carousel2.png)
+![ImageCarousel](../medias/carousel3.png)
+![ImageCarousel](../medias/carousel4.png)
+![ImageCarousel](../medias/carousel5.png)
+![ImageCarousel](../medias/carousel6.png)
