@@ -48,3 +48,16 @@ J’ai aussi développé le design d’un carrousel qui sera notre deuxième pub
 ![ImageCarousel](../medias/carousel4.png)
 ![ImageCarousel](../medias/carousel5.png)
 ![ImageCarousel](../medias/carousel6.png)
+
+
+
+##Lorie 
+
+
+Lorie : Pour la semaine 8, j'ai réalisé le mixage de la maquette sonore. Tous les sons et effets sonores ont été récupérés sur des sites libres de droits. 
+
+![Image maquette](../medias/maquette_sonore.png)
+
+De plus, Camille et moi avons commencé à élaborer du contenu pour les réseaux sociaux, afin de faciliter la planification de nos publications à l'avance.
+
+![Image contenu](../medias/contenu_reseaux.png)
