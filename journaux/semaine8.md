@@ -34,7 +34,9 @@ Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième
 
 ## Camille
 
-Cette semaine, Lorie et moi avons créé les comptes des réseaux sociaux. J’ai créé un calendrier pour nous aider à planifier nos publications car elle et moi s'occuperont des réseaux.
+Cette semaine, pour le Sprint 1, j'ai mis en page et créé le devis. J'ai aussi réalisé la charte graphique.
+
+De plus, Lorie et moi avons créé les comptes des réseaux sociaux. J’ai créé un calendrier pour nous aider à planifier nos publications car elle et moi s'occuperont des réseaux.
 
 J’ai créé le design de notre première publication introduisant notre logo et invitant les gens à venir à notre installation lors du ChaosMédia.
 
