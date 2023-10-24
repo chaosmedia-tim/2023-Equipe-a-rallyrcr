@@ -60,3 +60,9 @@ Lorie : Pour la semaine 8, j'ai réalisé le mixage de la maquette sonore. Tous 
 De plus, Camille et moi avons commencé à élaborer du contenu pour les réseaux sociaux, afin de faciliter la planification de nos publications à l'avance.
 
 ![Image contenu](../medias/contenu_reseaux.png)
+
+## Samuel
+
+À la semaine 8, j'ai fait une maquette sommaire de la scène que nous allons créé. Nous allons mettre des toiles sur les côtés pour donner une ambiance. J'ai définis aussi l'emplacement des personnes qui joueront à notre jeu.
+
+![Image Rendu](../medias/render01.png)
