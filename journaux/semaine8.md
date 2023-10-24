@@ -51,8 +51,7 @@ J’ai aussi développé le design d’un carrousel qui sera notre deuxième pub
 
 
 
-##Lorie 
-
+## Lorie 
 
 Lorie : Pour la semaine 8, j'ai réalisé le mixage de la maquette sonore. Tous les sons et effets sonores ont été récupérés sur des sites libres de droits. 
 
