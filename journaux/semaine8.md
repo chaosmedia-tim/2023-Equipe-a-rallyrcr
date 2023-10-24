@@ -32,7 +32,7 @@ Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième
 ![ImageCourse](../medias/UI RACE_display.jpg)
 
 
-##Camille
+## Camille
 
 Cette semaine, Lorie et moi avons créé les comptes des réseaux sociaux. J’ai créé un calendrier pour nous aider à planifier nos publications car elle et moi s'occuperont des réseaux.
 
