@@ -7,11 +7,13 @@ layout: post
 
 
 #  C'EST PARTI !
-Dominik : Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
+## Dominik
+ Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
 ![Image démo faisabilité](../medias/demo_semaine8.jpg)
 
 
-Mario: Le jeu Rally Rcr vient de terminer **son premier sprint.** Les éléments suivants ont été ajoutés au devis :
+## Mario
+ Le jeu Rally Rcr vient de terminer **son premier sprint.** Les éléments suivants ont été ajoutés au devis :
 
 - Les maquettes,
 - Les démos techniques,
