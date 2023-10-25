@@ -15,3 +15,16 @@ En détail, j'ai créé les publications sur: modalités d'interaction, notre é
 Voici tous les créatifs que j'ait crées cette semaine:
 
 ![Image démo faisabilité](../medias/sem9_cam.png)
+
+#  Silence sa tourne
+
+## Mario
+
+"Cette semaine, notre équipe s'est rendue au studio TV pour filmer des plans de présentation pour le making-of.
+
+J'avais réservé le studio TV et l'équipement. Le tournage s'est relativement bien passé, mais j'ai eu une petite frayeur vers la fin car je ne trouvais pas les scènes que nous avions filmées. Après un certain stress, nous avons finalement récupéré les séquences.
+
+Le montage pour le segment de la capsule vidéo a commencé. J'espère ne pas rencontrer trop de difficultés de ce côté... Oh non Camille et Lori porte du vert, s'est mal partit 😅."
+
+![PhotoTournage](../medias/photo_groupe.jpg)
+
