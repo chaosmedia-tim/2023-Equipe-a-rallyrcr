@@ -16,7 +16,7 @@ Voici tous les créatifs que j'ait crées cette semaine:
 
 ![Image démo faisabilité](../medias/sem9_cam.png)
 
-#  Silence sa tourne
+#  Silence sa tourne !
 
 ## Mario
 
