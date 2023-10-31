@@ -7,7 +7,6 @@ layout: post
 
 ## Camille
 
-
 Cette semaine, Lorie et moi avons travaillé ensemble pour préparer plusieures futures publications de Facebook et Instagram. J'ai développé le design, alors qu'elle a écrit les textes.
 
 En détail, j'ai créé les publications sur: modalités d'interaction, notre équipe, maquette sonore et à propos du ChaosMédia.
@@ -29,7 +28,19 @@ Le montage pour le segment de la capsule vidéo a commencé. J'espère ne pas re
 ![PhotoTournage](../medias/photo_groupe.jpg)
 
 ## Dominik
+
 Cette semaine, j'ai continuer l'avancement dans Unity pour faire le prototype fonctionel du projet à remettre pour le sprint 2. J'avais prévu initialement un simple 4h pour programmer les interactions et rétroaction selon le rythme et la force. Mais m'étant compliqué grandement la vie, le temps finale de cette tâche fut plutôt 8h. Mais au final, j'ai un début de prototype fonctionel. La prochaine étape serait d'ajouter le deuxième joueur et intégrer les images et sons finaux.
 
 ![Image Début Prototype](../medias/imagedebutproto.png)
 
+
+## Lorie 
+
+Cette semaine, Camille et moi avons poursuivi la création de contenu pour nos publications sur les réseaux sociaux. J'ai rédigé les textes des publications concernant notre équipe, l'avancement du jeu (qui sera publié le 1er novembre) et ChaosMédia (qui sera publié le 7 novembre).
+
+![Image calendrier](../medias/calendrier_lb9.png)
+
+J'ai également continué à réfléchir aux contenus des semaines à venir afin de planifier nos publications à l'avance.
+
+![Image publication](../medias/contenu_equipe_lb9.png)
+![Image publication](../medias/contenu_lb9.png)
