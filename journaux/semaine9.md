@@ -38,9 +38,10 @@ Cette semaine, j'ai continuer l'avancement dans Unity pour faire le prototype fo
 
 Cette semaine, Camille et moi avons poursuivi la création de contenu pour nos publications sur les réseaux sociaux. J'ai rédigé les textes des publications concernant notre équipe, l'avancement du jeu (qui sera publié le 1er novembre) et ChaosMédia (qui sera publié le 7 novembre).
 
-![Image calendrier](../medias/calendrier_lb9.png)
+![Image publication](../medias/contenu_equipe_lb9.png)
+![Image publication](../medias/contenu_lb9.png)
+
 
 J'ai également continué à réfléchir aux contenus des semaines à venir afin de planifier nos publications à l'avance.
 
-![Image publication](../medias/contenu_equipe_lb9.png)
-![Image publication](../medias/contenu_lb9.png)
+![Image calendrier](../medias/calendrier_lb9.png)
