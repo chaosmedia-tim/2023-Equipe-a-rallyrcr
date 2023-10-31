@@ -45,3 +45,10 @@ Cette semaine, Camille et moi avons poursuivi la création de contenu pour nos p
 J'ai également continué à réfléchir aux contenus des semaines à venir afin de planifier nos publications à l'avance.
 
 ![Image calendrier](../medias/calendrier_lb9.png)
+
+
+## Samuel
+
+Cette semaine, j'ai avancé la version finale du parallaxe qui sera sur les côtés, derrières les joueurs. Les deux parallaxes sont presque terminé, il faut juste que je rajoutes les détails au premier plan. Je vais commencer la route également la semaine prochaine.
+
+![Scene Parallaxe](../medias/scene_parallaxe.png)
