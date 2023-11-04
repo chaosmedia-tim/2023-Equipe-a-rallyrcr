@@ -24,6 +24,9 @@ J'ai aussi commencé à travailler sur le design de la projection.
 Cette semaine, j'ai continué à travailler sur le prototype du projet pour le 7 novembre.
 
 La base du jeu étant faite, j'ai commencé à travailler sur plusieurs points plus petits. Par exemple, afficher différents display sur différents écrans, ajouter le joueur 2 faire bouger les routes et ambulances selon la vitesse que le joueur gagne en effectuant le RCR ou encore la condition de victoire qui pour le moment, n'affiche qu'un panneau.
+
+J'ai également fait un premier prototype de plaque pour pouvoir faire la manoeuvre dessus.
 ![Image d'exemple de Multi-display](../medias/multidisplay.png)
+![Image de proto de plaque](../medias/plaque.png)
 
 
