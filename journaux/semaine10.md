@@ -29,4 +29,12 @@ J'ai également fait un premier prototype de plaque pour pouvoir faire la manoeu
 ![Image d'exemple de Multi-display](../medias/multidisplay.png)
 ![Image de proto de plaque](../medias/plaque.png)
 
+# Mario
+## L'équipe de rally RCR vous attend
+
+Le montage de la vidéo promotionnelle a bien avancé. Le montage en est à un stade acceptable, mais je crois qu'elle pourrait être améliorée, à part quelques défauts à corriger. Je vais prendre le reste de la semaine pour la finaliser et me laisser du temps libre pour corriger certains aspects que mon équipe aimerait apporter. Je suis assez fier de la vidéo elle représente le thème de notre projet et met en valeur l'ambiance de notre équipe.
+
+![Image de l`equipe](../medias/equipe.gif)
+
+
 
