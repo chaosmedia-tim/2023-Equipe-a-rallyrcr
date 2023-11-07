@@ -50,5 +50,8 @@ Enfin, j'ai complété l'animation du cœur, et il me reste simplement à animer
 
 ![Image illustrator coeur](../medias/logoRCR_lb10.png)
 
+## Samuel
 
+Cette semaine, j'ai totalement terminé le parallaxe qui sera projeté sur le côté. J'ai pris plusieurs assets que j'ai mis ensemble pour créer une scène simple, mais qui est attrayante et intéressante à regarder. Peut-être que je rajouterai des détails pendant la semaine prochaine, mais pour moi elle est terminé. Pendant la semaine prochaine, je vais commencer la route et l'ambulance, qui seront projeté en-dessous des joueurs.
 
+![Image fin du parallaxe](../medias/parallaxe_semaine10.png)
