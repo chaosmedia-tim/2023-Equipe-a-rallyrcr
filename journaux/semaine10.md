@@ -36,5 +36,22 @@ Le montage de la vidéo promotionnelle a bien avancé. Le montage en est à un s
 
 ![Image de l`equipe](../medias/equipe.gif)
 
+## Lorie
+
+Cette semaine, j'ai poursuivi mon travail sur le contenu des médias sociaux. De plus, j'ai entamé la création d'une animation de notre logo en vue de l'utiliser comme écran d'attente pour nos projections. 
+
+J'ai disposé les éléments du logo créé par Camille sur différents calques en utilisant Illustrator. De plus, j'ai créé deux autres versions du cœur, une plus petite et une plus grande, en vue de les animer dans After Effects.
+
+![Image illustrator](../medias/illustrator_lb10.png)
+![Image illustrator coeur](../medias/heart_lb10.png)
 
 
+Enfin, j'ai complété l'animation du cœur, et il me reste simplement à animer la ligne de fréquence cardiaque.
+
+![Image illustrator coeur](../medias/logoRCR_lb10.png)
+
+## Samuel
+
+Cette semaine, j'ai totalement terminé le parallaxe qui sera projeté sur le côté. J'ai pris plusieurs assets que j'ai mis ensemble pour créer une scène simple, mais qui est attrayante et intéressante à regarder. Peut-être que je rajouterai des détails pendant la semaine prochaine, mais pour moi elle est terminé. Pendant la semaine prochaine, je vais commencer la route et l'ambulance, qui seront projeté en-dessous des joueurs.
+
+![Image fin du parallaxe](../medias/parallaxe_semaine10.png)
