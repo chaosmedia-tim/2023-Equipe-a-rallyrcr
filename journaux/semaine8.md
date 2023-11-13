@@ -9,7 +9,7 @@ layout: post
 #  C'EST PARTI !
 ## Dominik
  Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
-![Image démo faisabilité](../medias/demo_semaine8.jpg)
+![Image démo faisabilité](../medias/sem8/demo_semaine8.jpg)
 
 
 ## Mario
@@ -31,7 +31,7 @@ En résumé, nous sommes parvenus à progresser rapidement et chaque membre de l
 
 Maintenant, pour les défis qui nous attendent, nous devons entamer le deuxième sprint et donc commencer la création des réseaux sociaux et continuer la progression de notre installation.
 
-![ImageCourse](../medias/UI RACE_display.jpg)
+![ImageCourse](../medias/sem8/UI RACE_display.jpg)
 
 
 ## Camille
@@ -42,16 +42,16 @@ De plus, Lorie et moi avons créé les comptes des réseaux sociaux. J’ai cré
 
 J’ai créé le design de notre première publication introduisant notre logo et invitant les gens à venir à notre installation lors du ChaosMédia.
 
-![ImagePublication1](../medias/post1.png)
+![ImagePublication1](../medias/sem8/post1.png)
 
 J’ai aussi développé le design d’un carrousel qui sera notre deuxième publication. Elle expliquera en détail au public notre direction artistique pour notre installation.
 
-![ImageCarousel](../medias/carousel1.png)
-![ImageCarousel](../medias/carousel2.png)
-![ImageCarousel](../medias/carousel3.png)
-![ImageCarousel](../medias/carousel4.png)
-![ImageCarousel](../medias/carousel5.png)
-![ImageCarousel](../medias/carousel6.png)
+![ImageCarousel](../medias/sem8/carousel1.png)
+![ImageCarousel](../medias/sem8/carousel2.png)
+![ImageCarousel](../medias/sem8/carousel3.png)
+![ImageCarousel](../medias/sem8/carousel4.png)
+![ImageCarousel](../medias/sem8/carousel5.png)
+![ImageCarousel](../medias/sem8/carousel6.png)
 
 
 
@@ -59,14 +59,14 @@ J’ai aussi développé le design d’un carrousel qui sera notre deuxième pub
 
 Lorie : Pour la semaine 8, j'ai réalisé le mixage de la maquette sonore. Tous les sons et effets sonores ont été récupérés sur des sites libres de droits. 
 
-![Image maquette](../medias/maquette_sonore.png)
+![Image maquette](../medias/sem8/maquette_sonore.png)
 
 De plus, Camille et moi avons commencé à élaborer du contenu pour les réseaux sociaux, afin de faciliter la planification de nos publications à l'avance.
 
-![Image contenu](../medias/contenu_reseaux.png)
+![Image contenu](../medias/sem8/contenu_reseaux.png)
 
 ## Samuel
 
 À la semaine 8, j'ai fait une maquette sommaire de la scène que nous allons créé. Nous allons mettre des toiles sur les côtés pour donner une ambiance. J'ai définis aussi l'emplacement des personnes qui joueront à notre jeu.
 
-![Image Rendu](../medias/render01.png)
+![Image Rendu](../medias/sem8/render01.png)
