@@ -13,6 +13,13 @@ Cette semaine suite à la remise du sprint 2, j’ai continué à avancer sur le
 ## Camille
 ## Lorie
 
+Pour la semaine 11, j'ai continué à développer le contenu des réseaux sociaux. De plus, j'ai amélioré l'animation du logo qui sera utilisé en tant qu'écran d'attente.
+
+J'ai ajouté un effet sonore à chaque battement de cœur, et je crois avoir trouvé une façon d'animer la ligne de la fréquence cardiaque pour qu'elle change de position et répète son animation. Il me reste plus qu’à la faire jouer 5 fois. 
+
+![Bar de progression](../medias/coeurson_lb11.png)
+![Bar de progression](../medias/animRally_lb11.png)
+
 # Rally RCR the movie the sequel !
 ## Mario
 
