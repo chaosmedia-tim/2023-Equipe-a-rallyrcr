@@ -11,6 +11,15 @@ Cette semaine suite à la remise du sprint 2, j’ai continué à avancer sur le
 ![Bar de progression](../medias/sem11/progressbar.png)
 
 ## Camille
+
+Cette semaine, nous avons reçu nos toutous et vérifié si tout était correct: c’était parfait! De mon côté, j’ai fait le design de l’interface au centre ainsi que le dessin de la route.
+
+Pour les réseaux sociaux, j'ai fait le design pour la publication des "behind the scenes".
+
+![Image design projection au sol](../medias/sem11/proj1.png)à
+![Image design route](../medias/sem11/route.png)
+![Image réseaux sociaux](../medias/sem11/sem11.png)
+
 ## Lorie
 
 Pour la semaine 11, j'ai continué à développer le contenu des réseaux sociaux. De plus, j'ai amélioré l'animation du logo qui sera utilisé en tant qu'écran d'attente.
