@@ -28,3 +28,7 @@ Les remises pour le sprint 02 ont été remis. Je suis satisfait de la premiere 
 
 
 ## Samuel
+
+Cette semaine j'ai commencé à travailler sur le sprite de l'ambulance que nous allons mettre sur la route. Nous allons aussi l'utilisé pour signalé l'avancement du joueur au niveau de la route.
+
+J'ai terminé également les derniers détails sur le parallaxe. Il est parfait.
