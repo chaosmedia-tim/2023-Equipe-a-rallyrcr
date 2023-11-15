@@ -16,7 +16,7 @@ Cette semaine, nous avons reçu nos toutous et vérifié si tout était correct:
 
 Pour les réseaux sociaux, j'ai fait le design pour la publication des "behind the scenes".
 
-![Image design projection au sol](../medias/sem11/proj1.png)à
+![Image design projection au sol](../medias/sem11/proj1.png)
 ![Image design route](../medias/sem11/route.png)
 ![Image réseaux sociaux](../medias/sem11/sem11.png)
 
