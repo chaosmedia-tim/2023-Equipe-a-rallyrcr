@@ -1,5 +1,5 @@
 ---
-title: Semaine 11
+title: Semaine 12
 layout: post
 ---
 
@@ -15,6 +15,8 @@ Aussi, j'ai fait le design de l'affiche, et je l'ai envoyé à l'imprimeur.
 
 ![Image coeur](../medias/sem12/photo.jpg)
 ![Image affiche](../medias/sem12/affiche.png)
+![Image Lorie et Camille](../medias/sem12/lorie_cam.png)
+
 
 
 ## Lorie
