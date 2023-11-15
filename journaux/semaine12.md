@@ -13,8 +13,9 @@ Cette semaine, j'ai acheté le tissu pour faire les coeurs sur les toutous, qui 
 
 Aussi, j'ai fait le design de l'affiche, et je l'ai envoyé à l'imprimeur.
 
-![Image coeur](../medias/sem12/photo.png)
+![Image coeur](../medias/sem12/photo.jpg)
 ![Image affiche](../medias/sem12/affiche.png)
+
 
 ## Lorie
 
