@@ -4,7 +4,11 @@ layout: post
 ---
 
 # Ça arrive! 
+
 ## Dominik
+Cette semaine, j'ai continué à travaillé sur le projet. J'ai commencé par ajouter les sons pour les faire jouer aux bons moments. Les éléments principaux étant terminés, j'ai commencé à travailler sur des éléments plus secondaires. Par exemple, j'ai ajouté un mode solo au cas ou nous aurions un nombre impair de joueurs. J'ai également ajouté un mode debug.
+![Image Solo](../medias/sem12/modedebug.png)
+![Image Debug](../medias/sem12/modesolo.png)
 
 
 ## Camille
