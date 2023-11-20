@@ -30,7 +30,7 @@ Aussi, j'ai fait le design de l'affiche, et je l'ai envoyé à l'imprimeur.
 # Victoire
 
 ## Mario
-J'ai pris une petite pause dans le montage vidéo pour permettre aux autres de progresser sur leur partie du travail. Pendant ce temps, j'ai conçu une animation lorsque le joueur franchit la ligne d'arrivée. Il s'agit d'une petite animation qui affiche le mot "victoire" dans le style de notre installation.
+J'ai décidé de prendre une petite pause dans le montage vidéo pour permettre aux autres de progresser sur leur partie du travail. Pendant ce temps, j'ai conçu une animation lorsque le joueur franchit la ligne d'arrivée. Il s'agit d'une petite animation qui affiche le mot "victoire" dans le style de notre installation.
 
 ![Video Victoire](../medias/sem12/VictoireShort.mp4)
 
