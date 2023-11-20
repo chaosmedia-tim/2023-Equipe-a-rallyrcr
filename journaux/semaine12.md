@@ -24,7 +24,9 @@ Aussi, j'ai fait le design de l'affiche, et je l'ai envoyé à l'imprimeur.
 
 
 ## Lorie
+Pour la semaine 12, j'ai continué à élaborer du contenu pour les réseaux sociaux. J'ai également découpé et cousu le deuxième cœur, que Camille a ensuite fixé sur la peluche. Ces cœurs sont conçus pour servir d'indicateurs visuels lors des compressions appliquées aux chevreuils. Enfin, j'ai rédigé le contenu du texte qui sera affiché sur le site de ChaosMedia.
 
+![Image Lorie coeur](../medias/sem12/coeurTravaille_lb12.png)
 
 
 # Victoire
