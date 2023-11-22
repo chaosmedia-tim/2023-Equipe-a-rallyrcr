@@ -11,25 +11,24 @@ Cette semaine, Lorie et moi avons travaillé ensemble pour préparer plusieures 
 
 En détail, j'ai créé les publications sur: modalités d'interaction, notre équipe, maquette sonore et à propos du ChaosMédia.
 
-Voici tous les créatifs que j'ait crées cette semaine:
+Voici tous les créatifs que j'ai créés cette semaine:
 
 ![Image démo faisabilité](../medias/sem9/sem9_cam.png)
 
-#  Silence sa tourne !
 
 ## Mario
 
-"Cette semaine, notre équipe s'est rendue au studio TV pour filmer des plans de présentation pour le making-of.
+Cette semaine, notre équipe s'est rendue au studio TV pour filmer des plans de présentation pour le making-of.
 
 J'avais réservé le studio TV et l'équipement. Le tournage s'est relativement bien passé, mais j'ai eu une petite frayeur vers la fin car je ne trouvais pas les scènes que nous avions filmées. Après un certain stress, nous avons finalement récupéré les séquences.
 
-Le montage pour le segment de la capsule vidéo a commencé. J'espère ne pas rencontrer trop de difficultés de ce côté... Oh non Camille et Lori porte du vert, s'est mal partit 😅."
+Le montage pour le segment de la capsule vidéo a commencé. J'espère ne pas rencontrer trop de difficultés de ce côté... Oh non Camille et Lorie portent du vert, c'est mal parti😅.
 
 ![PhotoTournage](../medias/sem9/photo_groupe.jpg)
 
 ## Dominik
 
-Cette semaine, j'ai continuer l'avancement dans Unity pour faire le prototype fonctionel du projet à remettre pour le sprint 2. J'avais prévu initialement un simple 4h pour programmer les interactions et rétroaction selon le rythme et la force. Mais m'étant compliqué grandement la vie, le temps finale de cette tâche fut plutôt 8h. Mais au final, j'ai un début de prototype fonctionel. La prochaine étape serait d'ajouter le deuxième joueur et intégrer les images et sons finaux.
+Cette semaine, j'ai continué l'avancement dans Unity pour faire le prototype fonctionnel du projet à remettre pour le sprint 2. J'avais initialement prévu un simple 4h pour programmer les interactions et rétroaction selon le rythme et la force. Mais m'étant compliqué grandement la vie, le temps final de cette tâche fut plutôt 8h. Mais au final, j'ai un début de prototype fonctionnel. La prochaine étape sera d'ajouter le deuxième joueur et d'intégrer les images et les sons finaux.
 
 ![Image Début Prototype](../medias/sem9/imagedebutproto.png)
 
@@ -49,6 +48,6 @@ J'ai également continué à réfléchir aux contenus des semaines à venir afin
 
 ## Samuel
 
-Cette semaine, j'ai avancé la version finale du parallaxe qui sera sur les côtés, derrières les joueurs. Les deux parallaxes sont presque terminé, il faut juste que je rajoutes les détails au premier plan. Je vais commencer la route également la semaine prochaine.
+Cette semaine, j'ai avancé la version finale du parallaxe qui sera sur les côtés, derrière les joueurs. Les deux parallaxes sont presque terminé, il faut juste que je rajoutes les détails au premier plan. Je vais commencer la route également la semaine prochaine.
 
 ![Scene Parallaxe](../medias/sem9/scene_parallaxe.png)

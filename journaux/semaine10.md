@@ -3,7 +3,7 @@ title: Semaine 10
 layout: post
 ---
 
-#  On est bien avancé !
+#  ON EST BIEN AVANCÉ!
 
 ## Camille
 
@@ -21,16 +21,16 @@ J'ai aussi commencé à travailler sur le design de la projection.
 ![Image scénographie](../medias/sem10/sceno4.png)
 
 ## Dominik
+
 Cette semaine, j'ai continué à travailler sur le prototype du projet pour le 7 novembre.
 
-La base du jeu étant faite, j'ai commencé à travailler sur plusieurs points plus petits. Par exemple, afficher différents display sur différents écrans, ajouter le joueur 2 faire bouger les routes et ambulances selon la vitesse que le joueur gagne en effectuant le RCR ou encore la condition de victoire qui pour le moment, n'affiche qu'un panneau.
+La base du jeu étant faite, j'ai commencé à travailler sur plusieurs points plus petits. Par exemple, afficher différents display sur différents écrans, ajouter le joueur 2, faire bouger les routes et les ambulances selon la vitesse que le joueur gagne en effectuant le RCR ou encore la condition de victoire qui pour le moment, n'affiche qu'un panneau.
 
 J'ai également fait un premier prototype de plaque pour pouvoir faire la manoeuvre dessus.
 ![Image d'exemple de Multi-display](../medias/sem10/multidisplay.png)
 ![Image de proto de plaque](../medias/sem10/plaque.png)
 
 # Mario
-## L'équipe de rally RCR vous attend
 
 Le montage de la vidéo promotionnelle a bien avancé. Le montage en est à un stade acceptable, mais je crois qu'elle pourrait être améliorée, à part quelques défauts à corriger. Je vais prendre le reste de la semaine pour la finaliser et me laisser du temps libre pour corriger certains aspects que mon équipe aimerait apporter. Je suis assez fier de la vidéo elle représente le thème de notre projet et met en valeur l'ambiance de notre équipe.
 
@@ -52,6 +52,6 @@ Enfin, j'ai complété l'animation du cœur, et il me reste simplement à animer
 
 ## Samuel
 
-Cette semaine, j'ai totalement terminé le parallaxe qui sera projeté sur le côté. J'ai pris plusieurs assets que j'ai mis ensemble pour créer une scène simple, mais qui est attrayante et intéressante à regarder. Peut-être que je rajouterai des détails pendant la semaine prochaine, mais pour moi elle est terminé. Pendant la semaine prochaine, je vais commencer la route et l'ambulance, qui seront projeté en-dessous des joueurs.
+Cette semaine, j'ai totalement terminé le parallaxe qui sera projeté sur le côté. J'ai pris plusieurs assets que j'ai mis ensemble pour créer une scène simple, mais qui est attrayante et intéressante à regarder. Peut-être que j'ajouterai des détails pendant la semaine prochaine, mais pour moi elle est terminée. Pendant la semaine prochaine, je vais commencer la route et l'ambulance, qui seront projetées en-dessous des joueurs.
 
 ![Image fin du parallaxe](../medias/sem10/parallaxe_semaine10.png)

@@ -3,16 +3,16 @@ title: Semaine 8
 layout: post
 ---
 
-
-
-
 #  C'EST PARTI !
+
 ## Dominik
+
  Pour la semaine 8, j'ai terminé la démo de faisabilité avec le Arduino et TouchDesigner. J'ai ensuite lié Touch avec Unity et programmé un timer et la force pour pouvoir éventuellement déterminer si la vitesse et la force sont bonnes.
 ![Image démo faisabilité](../medias/sem8/demo_semaine8.jpg)
 
 
 ## Mario
+
  Le jeu Rally Rcr vient de terminer **son premier sprint.** Les éléments suivants ont été ajoutés au devis :
 
 - Les maquettes,
@@ -21,11 +21,11 @@ layout: post
 - Les chartes graphiques,
 - Le logo
 
-Suite à des critiques qui nous ont été données, nous avons eu des problèmes à choisir entre une installation sérieuse ou ludique. Finalement, nous sommes parvenues à nous accorder sur une direction plus ludique.
+Suite à des critiques qui nous ont été données, nous avons eu des problèmes à choisir entre une installation sérieuse ou ludique. Finalement, nous sommes parvenues à nous mettre d'accord sur une direction plus ludique.
 
-Nous avons donc effectué quelques changements dans notre projet, comme l'intégration de deux peluches d'animaux plutôt que deux mannequins.
+Nous avons donc effectué quelques changements dans notre projet, tels que l'intégration de deux peluches d'animaux plutôt que deux mannequins.
 
-Nous avons également choisi d'intégrer notre interface de jeu au sol grâce à une projection. La projection consiste en une route qui se déplace sur un effet parallaxe.
+Nous avons également choisi d'intégrer notre interface de jeu au sol grâce à une projection. Cette projection consiste en une route qui se déplace sur un effet parallaxe.
 
 En résumé, nous sommes parvenus à progresser rapidement et chaque membre de l'équipe a bien contribué.
 
@@ -67,6 +67,6 @@ De plus, Camille et moi avons commencé à élaborer du contenu pour les réseau
 
 ## Samuel
 
-À la semaine 8, j'ai fait une maquette sommaire de la scène que nous allons créé. Nous allons mettre des toiles sur les côtés pour donner une ambiance. J'ai définis aussi l'emplacement des personnes qui joueront à notre jeu.
+À la semaine 8, j'ai fait une maquette sommaire de la scène que nous allons créer. Nous allons mettre des toiles sur les côtés pour donner une ambiance. J'ai définis aussi l'emplacement des personnes qui joueront à notre jeu.
 
 ![Image Rendu](../medias/sem8/render01.png)
