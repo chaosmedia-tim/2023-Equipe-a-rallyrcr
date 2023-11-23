@@ -41,3 +41,6 @@ J'ai décidé de prendre une petite pause dans le montage vidéo pour permettre 
 
 ## Samuel
 
+Cette semaine, j'ai commencé le sprite de l'ambulance. Ce dernier servira pour la barre de progression du joueur, mais il sera aussi affiché sous le joueur pour lui indiqué qu'il est dans l'ambulance.
+
+![Image Ambulance](../medias/sem12/ambulance_avancement.png)
