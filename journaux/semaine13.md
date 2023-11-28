@@ -31,3 +31,9 @@ J'ai aussi créé le design des publications de la semaine. Finalement, pour le 
  
 Cette semaine, étant donné que la générale approche, la plupart des changements que j'ai apportés sont des changements mineurs. J'ai, par exemple, ajouté les nouveaux sprites pour l'ambulance. J'ai aussi ajouté la vidéo d'attente de joueurs ainsi que des retouches dans certains scripts du jeu. 
 ![Publications réseaux sociaux](../medias/sem13/accueil.png)
+
+# Samuel
+
+Cette semaine, j'ai terminé le dernier sprite pour l'ambulance. Peut-être que des changements mineurs seront à prévoir sur l'illustration en fonction de comment elle rend à la générale
+
+![Ambulance vue de dessus](../medias/sem13/ambulance_haut.png)
