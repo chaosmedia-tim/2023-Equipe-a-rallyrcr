@@ -18,3 +18,11 @@ Pour la semaine 13, j'ai continué la rédaction du contenu pour les réseaux so
 ![Bannieres](../medias/sem13/banniere1vf_lb13.jpg)
 ![Bannieres](../medias/sem13/banniere2vf_lb13.jpg)
 
+
+# Camille
+ 
+Cette semaine, nous sommes en semaine de relâche alors nous avons tous travaillé de chez nous. De mon côté, je suis allée chercher notre affiche chez notre imprimeur. Je suis aussi allée chez Michael's pour acheter notre foamcore, et pour regarder des idées de décorations. Notre affiche est donc officiellement terminée !
+ 
+J'ai aussi créé le design des publications de la semaine. Finalement, pour le cours d'Assurance Qualité, j'ai aussi fait une liste de matériels dont nous aurons besoin à la générale et au ChaosMédia si jamais nous avons à réparer des parties de notre installation.
+ 
+![Publications réseaux sociaux](../medias/sem13/sem13_cam.png)
