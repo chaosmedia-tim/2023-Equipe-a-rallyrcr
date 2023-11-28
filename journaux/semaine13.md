@@ -26,3 +26,8 @@ Cette semaine, nous sommes en semaine de relâche alors nous avons tous travaill
 J'ai aussi créé le design des publications de la semaine. Finalement, pour le cours d'Assurance Qualité, j'ai aussi fait une liste de matériels dont nous aurons besoin à la générale et au ChaosMédia si jamais nous avons à réparer des parties de notre installation.
  
 ![Publications réseaux sociaux](../medias/sem13/sem13_cam.png)
+
+# Dominik
+ 
+Cette semaine, étant donné que la générale approche, la plupart des changements que j'ai apportés sont des changements mineurs. J'ai, par exemple, ajouté les nouveaux sprites pour l'ambulance. J'ai aussi ajouté la vidéo d'attente de joueurs ainsi que des retouches dans certains scripts du jeu. 
+![Publications réseaux sociaux](../medias/sem13/accueil.png)
