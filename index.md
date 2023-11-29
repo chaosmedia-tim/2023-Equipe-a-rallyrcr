@@ -20,3 +20,5 @@ Bienvenue dans l'aventure immersive de Rally RCR, où l'apprentissage du RCR se 
 [Semaine 12](journaux/semaine12.md)
 
 [Semaine 13](journaux/semaine13.md)
+
+[Semaine 14](journaux/semaine14.md)
