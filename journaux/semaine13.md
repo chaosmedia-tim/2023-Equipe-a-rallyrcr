@@ -13,7 +13,7 @@ J'ai terminé d'animer le texte de victoire, et maintenant je retourne travaille
 
 # Lorie
 
-Pour la semaine 13, j'ai continué la rédaction du contenu pour les réseaux sociaux. De plus, j'ai finalisé l'animation de l'écran d'accueil en adoptant une approche différente de celle initiale. De plus, j'ai achevé le design des deux bannières qui seront affichées sur le site de ChaosMedia pour le système de vote.
+Pour la semaine 13, j'ai continué la rédaction du contenu pour les réseaux sociaux. De plus, j'ai finalisé l'animation de l'écran d'accueil en adoptant une approche différente de celle initiale. Enfin, j'ai achevé le design des deux bannières qui seront affichées sur le site de ChaosMedia pour le système de vote.
 
 ![Bannieres](../medias/sem13/banniere1vf_lb13.jpg)
 ![Bannieres](../medias/sem13/banniere2vf_lb13.jpg)
