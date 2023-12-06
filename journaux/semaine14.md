@@ -21,3 +21,9 @@ Pour les réseaux sociaux, j'ai créé la publication d'aujourd'hui. J'ai créé
 ![Publication](../medias/sem14/2.png)
 ![Publication](../medias/sem14/3.png)
 ![Publication](../medias/sem14/4.png)
+
+# Lorie
+
+Pour la semaine 14, j'ai poursuivie la rédaction du contenu pour les réseaux sociaux. Nous avons eu notre répétition générale le 29 novembre, ce qui a permis d'obtenir des retours divers des utilisateurs internes et externes du cours. Suite à cela, nous avons discuté des éléments à corriger et pris des décisions concernant le confort des utilisateurs, ainsi que la projection sur les toiles latérales.
+
+![Générale](../medias/sem14/generale_lb14.png)
