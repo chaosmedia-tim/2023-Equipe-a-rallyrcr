@@ -14,9 +14,10 @@ La deuxième vidéo pour Chaos Media est terminée. J'ai passé la semaine à r�
 
 Cette semaine, nous avons eu une discussion toute la classe sur la Générale. Ensuite, notre équipe a eu une réunion sur ce que nous avons à faire d'ici le jour J. Nous avons donc tout mis à jour sur Trello.
 
-Pour les réseaux sociaux, j'ai créé la publication d'aujourd'hui. J'ai créé un carousel qui inclut des montages vidéos et des photos de la Générale.
+Pour les réseaux sociaux, j'ai créé le design des publications de la semaine. J'ai créé un carousel qui inclut des montages vidéos et des photos de la Générale. J'ai aussi fait une carousel expliquant ce qu'il nous reste à faire et améliorer d'ici ChaosMédia.
 
-![Video](../medias/sem14/video1.mp4)
+
+![Video](../medias/sem14/video1.mp4) 
 ![Video](../medias/sem14/video2.mp4)
 ![Publication](../medias/sem14/2.png)
 ![Publication](../medias/sem14/3.png)
