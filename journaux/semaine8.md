@@ -3,7 +3,7 @@ title: Semaine 8
 layout: post
 ---
 
-#  C'EST PARTI !
+#  C'EST PARTI!
 
 ## Dominik
 

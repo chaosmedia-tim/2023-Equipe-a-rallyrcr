@@ -3,10 +3,11 @@ title: Semaine 13
 layout: post
 ---
 
-# Mario
-## Retour sur la vidéo
+## RETOUR SUR LA VIDEO!
 
-J'ai terminé d'animer le texte de victoire, et maintenant je retourne travailler sur le montage. La vidéo que je prépare a pour objectif de présenter la progression de notre équipe dans ce projet. J'ai déjà récupéré une bonne partie des extraits vidéo dont j'avais besoin et commencé la base du montage. Je me donne jusqu'à samedi pour terminer d'assembler une première version à présenter à mon équipe. Cela devrait me laisser le temps d'ajouter du contenu lorsque mes coéquipiers auront terminé de finaliser leur partie du travail. Les tests utilisateurs de Chaos Media commencent la semaine prochaine, j'espère que nous aurons terminé d'ici là.
+# Mario
+
+J'ai terminé d'animer le texte de victoire, et maintenant je retourne travailler sur le montage. La vidéo que je prépare a pour objectif de présenter la progression de notre équipe dans ce projet. J'ai déjà récupéré une bonne partie des extraits vidéo dont j'avais besoin et commencé la base du montage. Je me donne jusqu'à samedi pour terminer d'assembler une première version à présenter à mon équipe. Cela devrait me laisser le temps d'ajouter du contenu lorsque mes coéquipiers auront terminé leur partie du travail. Les tests utilisateurs de Chaos Media commencent la semaine prochaine, j'espère que nous aurons terminé d'ici là.
 
 ![RallyRcrTitle](../medias/sem13/Progression_title.gif)
 
@@ -30,6 +31,7 @@ J'ai aussi créé le design des publications de la semaine. Finalement, pour le 
 # Dominik
  
 Cette semaine, étant donné que la générale approche, la plupart des changements que j'ai apportés sont des changements mineurs. J'ai, par exemple, ajouté les nouveaux sprites pour l'ambulance. J'ai aussi ajouté la vidéo d'attente de joueurs ainsi que des retouches dans certains scripts du jeu. 
+
 ![Publications réseaux sociaux](../medias/sem13/accueil.png)
 
 # Samuel
