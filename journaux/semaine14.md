@@ -28,3 +28,9 @@ Pour les réseaux sociaux, j'ai créé le design des publications de la semaine.
 Pour la semaine 14, j'ai poursuivie la rédaction du contenu pour les réseaux sociaux. Nous avons eu notre répétition générale le 29 novembre, ce qui nous a permis d'obtenir des retours divers des utilisateurs internes et externes du cours. Suite à cela, nous avons discuté des éléments à corriger et pris des décisions concernant le confort des utilisateurs, ainsi que la projection sur les toiles latérales.
 
 ![Générale](../medias/sem14/generale_lb14.png)
+
+# Dominik
+
+Ces dernières semaines, étant les derniers moments pour travailler sur le projet avant l'événement, les principales modifications que j'ai apportées au projet sont de petits ajustements mineurs tel que la correction et l'ajustement du tempo et de la force, l'ajout d'un drapeau d'arrivée sur la barre de progression, l'ajout de particules lorsqu'une note est appuyée et d'autres petits détails comme ça.
+
+![Générale](../medias/sem14/jeu.png)
