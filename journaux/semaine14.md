@@ -34,3 +34,10 @@ Pour la semaine 14, j'ai poursuivie la rédaction du contenu pour les réseaux s
 Ces dernières semaines, étant les derniers moments pour travailler sur le projet avant l'événement, les principales modifications que j'ai apportées au projet sont de petits ajustements mineurs tel que la correction et l'ajustement du tempo et de la force, l'ajout d'un drapeau d'arrivée sur la barre de progression, l'ajout de particules lorsqu'une note est appuyée et d'autres petits détails comme ça.
 
 ![Générale](../medias/sem14/jeu.png)
+
+# Samuel
+
+Suite à la générale, j'ai dressé un plan des montages que nous avons fait. Lors de ChaosMédia, nous allons avoir la liste de ce que nous avons utilisé pour gagner du temps.
+
+![Générale](../medias/sem14/liste_equipement.png)
+![Générale](../medias/sem14/montage.png)
