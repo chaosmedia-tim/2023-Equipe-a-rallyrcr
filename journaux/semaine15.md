@@ -9,3 +9,15 @@ layout: post
 Une démo de notre installation a eu lieu au studio TV. Nous avons pu tester notre jeu et nous sommes rendu compte que certains aspects nécessitaient des corrections avant Chaos Media. Malgré cela, nous étions heureux de l'enthousiasme des participants venus tester notre installation, et j'ai hâte d'être au 19 décembre pour Chaos Media.
 
 ![Test_utilisateur](../medias/sem15/ChaosMediaTest.jpg)
+
+# Camille
+
+Cette semaine, nous avons travaillé sur le Sprint 4 et sur les dernières modifications à faire avant le jour J!
+
+J'ai été en charge d'acheter nos derniers produits, comme le tapis de gazon et le ruban adhésif blanc.
+
+Pour les réseaux sociaux, Lorie et moi avons travaillé sur les publications de la semaine, ainsi que la publication du jour de ChaosMédia.
+
+
+![Publication](../medias/sem15/12dec.png)
+![Publication](../medias/sem15/18dec.png)

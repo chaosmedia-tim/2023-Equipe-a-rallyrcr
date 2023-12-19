@@ -17,8 +17,7 @@ Cette semaine, nous avons eu une discussion toute la classe sur la Générale. E
 
 Pour les réseaux sociaux, j'ai créé le design des publications de la semaine. J'ai créé un carousel qui inclut des montages vidéos et des photos de la Générale. J'ai aussi fait un carousel expliquant ce qu'il nous reste à faire et à améliorer d'ici ChaosMédia.
 
-![Video](../medias/sem14/video1.mp4) 
-![Video](../medias/sem14/video2.mp4)
+
 ![Publication](../medias/sem14/2.png)
 ![Publication](../medias/sem14/3.png)
 ![Publication](../medias/sem14/4.png)
