@@ -18,6 +18,14 @@ J'ai été en charge d'acheter nos derniers produits, comme le tapis de gazon et
 
 Pour les réseaux sociaux, Lorie et moi avons travaillé sur les publications de la semaine, ainsi que la publication du jour de ChaosMédia.
 
+--
+
+Aujourd’hui est le jour J!
+
+Nous avons commencé à installer Rally RCR vers 9:30. Nous avons eu des difficultés au début, parce que le projecteur au plafond devait être placé de façon différente que lors de la Générale, alors nous n’avions pas prévu les distances correctement. Mais lorsque le projecteur était bien placé, nous avons construit nos murs, placé le tapis blancs, les peluches et les Arduinos. Nous avons eu quelques bugs au début, comme un des capteurs qui était moins sensible que l’autre, mais nous avons réparé l’erreur. 
+
+Lorsque le public est arrivé,
+
 
 ![Publication](../medias/sem15/12dec.png)
 ![Publication](../medias/sem15/18dec.png)
