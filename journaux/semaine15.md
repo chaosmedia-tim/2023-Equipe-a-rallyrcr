@@ -29,3 +29,10 @@ Lorsque le public est arrivé,
 
 ![Publication](../medias/sem15/12dec.png)
 ![Publication](../medias/sem15/18dec.png)
+
+# Lorie
+
+Le grand jour est enfin là ! Nous sommes arrivés le matin, vers environ 8h45, pour récupérer notre station d'ordinateur et tous les éléments nécessaires à notre installation. Avec une quantité importante d'équipement, deux chariots étaient à notre disposition. Le processus a duré environ 5 heures. Dans l'ensemble, tout s'est bien déroulé ; le seul hic a été l'installation du projecteur au plafond, car il n'était pas à la bonne place lors de la première tentative. La soirée s'est déroulée très agréablement, avec quelques ajustements parfois nécessaires sur les capteurs, mais dans l'ensemble, tout était parfait ! Nous sommes extrêmement satisfaits du résultat et ravis d'avoir remporté le coup de cœur des professeurs!
+
+![Publication](../medias/sem15/installation_lb15.png)
+![Publication](../medias/sem15/installation2_lb15.png)
