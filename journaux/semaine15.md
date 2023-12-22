@@ -24,11 +24,14 @@ Aujourd’hui est le jour J!
 
 Nous avons commencé à installer Rally RCR vers 9:30. Nous avons eu des difficultés au début, parce que le projecteur au plafond devait être placé de façon différente que lors de la Générale, alors nous n’avions pas prévu les distances correctement. Mais lorsque le projecteur était bien placé, nous avons construit nos murs, placé le tapis blancs, les peluches et les Arduinos. Nous avons eu quelques bugs au début, comme un des capteurs qui était moins sensible que l’autre, mais nous avons réparé l’erreur. 
 
-Lorsque le public est arrivé,
+Lorsque le public est arrivé, l'équipe s'est partagé la tâche d'expliquer le jeu aux gens. Nous avons eu beaucoup de joueurs, autant des jeunes que des plus vieux! Nous avons eu à remettre en place les toutous plusieurs fois durant la soirée, mais sinon, ça c'est vraiment bien passé!
+
+Je suis très contente et fière de notre équipe, surtout du fait que nous avons gagné le prix coup de coeur des profs!ß
 
 
 ![Publication](../medias/sem15/12dec.png)
 ![Publication](../medias/sem15/18dec.png)
+![Publication](../medias/sem15/equipe.jpeg)
 
 # Lorie
 
