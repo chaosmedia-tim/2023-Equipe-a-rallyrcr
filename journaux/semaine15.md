@@ -26,7 +26,7 @@ Nous avons commencé à installer Rally RCR vers 9:30. Nous avons eu des difficu
 
 Lorsque le public est arrivé, l'équipe s'est partagé la tâche d'expliquer le jeu aux gens. Nous avons eu beaucoup de joueurs, autant des jeunes que des plus vieux! Nous avons eu à remettre en place les toutous plusieurs fois durant la soirée, mais sinon, ça c'est vraiment bien passé!
 
-Je suis très contente et fière de notre équipe, surtout du fait que nous avons gagné le prix coup de coeur des profs!ß
+Je suis très contente et fière de notre équipe, surtout du fait que nous avons gagné le prix coup de coeur des profs!
 
 
 ![Publication](../medias/sem15/12dec.png)
