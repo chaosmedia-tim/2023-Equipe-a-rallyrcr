@@ -51,3 +51,8 @@ Le grand jour est enfin là ! Nous sommes arrivés le matin, vers environ 8h45, 
 
 ![Publication](../medias/sem15/installation_lb15.png)
 ![Publication](../medias/sem15/installation2_lb15.png)
+
+# Dominik
+Cette semaine était l'événement chaos média. Nous avons commencé par l'installation de notre projet aux alentours de 8h45 jusqu'à 14h30 où nous devions amener l'équipement avec les chariots fournis, dans la salle. Le plus compliqué pour notre installation consistait à placer le projecteur à la hauteur désirée. Pour ce faire, les techniciens nous ont aidés. Après avoir tout installé, il était l'heure des tests par les professeurs et l'événement. Lors des premières heures d'utilisation tout fonctionnait relativemment bien, c'est après quelques heures que nos capteurs semblaient s'affaiblir voir pas réceptif. Malgré tout le jeu en tant que tel était fonctionnel et amusant ce qui nous a vallu le coup de coeur des professeurs.
+
+![Publication](../medias/sem15/final.jpeg)
