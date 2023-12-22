@@ -10,6 +10,18 @@ Une démo de notre installation a eu lieu au studio TV. Nous avons pu tester not
 
 ![Test_utilisateur](../medias/sem15/ChaosMediaTest.jpg)
 
+## Retour sur Chaos Media
+
+Bon je suis un peu confus avec l`avancement du journal de création donc je vais faire une nouvelle entrée suite à Chaos Media (●ˇ∀ˇ●)
+
+Je viens de finir les dernieres taches du Sprint 04 
+Chaos Media s`est super bien passé et Rally RCR à obtenue la 2e place pour le prix du publique, avec un score tres serrer, et le coup de coeur des profs. Tout ceci ma donner du matériel pour realiser un montage de nos meilleurs moments. 
+
+Je suis heureux d`avoir participer a ce projet 
+et je vous souhaite de joyeuses fetes
+
+![JoyeuseFetes](../medias/sem15/IMG_3482.jpg)
+
 # Camille
 
 Cette semaine, nous avons travaillé sur le Sprint 4 et sur les dernières modifications à faire avant le jour J!
